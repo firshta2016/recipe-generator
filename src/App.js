@@ -8,6 +8,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
+          hi
           <Route path="/" element={<RecipeList />} />
         </Routes>
       </div>
