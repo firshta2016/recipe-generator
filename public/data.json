@@ -34,6 +34,36 @@
           "name": "olive oil",
           "quantity": "2 tbsp",
           "unit": "tablespoons"
+        },
+        {
+          "ingredient_id": 4,
+          "name": "bell peppers",
+          "quantity": "1 lb",
+          "unit": "lb"
+        },
+        {
+          "ingredient_id": 4,
+          "name": "cilantro",
+          "quantity": "1 batch",
+          "unit": "batch"
+        },
+        {
+          "ingredient_id": 5,
+          "name": "onion",
+          "quantity": "1",
+          "unit": "each"
+        },
+        {
+          "ingredient_id": 6,
+          "name": "green onion",
+          "quantity": "1",
+          "unit": "batch"
+        },
+        {
+          "ingredient_id": 6,
+          "name": "green beans",
+          "quantity": "1/2",
+          "unit": "lb"
         }
       ],
       "steps": [
@@ -47,11 +77,11 @@
         },
         {
           "step_id": 3,
-          "instruction": "Add tomatoes and cook for another 3-5 minutes."
+          "instruction": "Add tomatoes, green beans, onions, bell peppers and cook for another 3-5 minutes."
         },
         {
           "step_id": 4,
-          "instruction": "Season with salt, pepper, and soy sauce."
+          "instruction": "Season with salt, pepper, green onion and soy sauce."
         },
         {
           "step_id": 5,

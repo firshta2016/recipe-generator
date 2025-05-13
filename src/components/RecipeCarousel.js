@@ -9,7 +9,7 @@ const RecipeCarousel = ({ recipes }) => {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: 2, // Adjust based on your layout
+    slidesToShow: 2, 
     slidesToScroll: 1,
     responsive: [
       {
